@@ -136,4 +136,4 @@ string userName = Console.ReadLine();
 Console.WriteLine("- Kāds ir tavs vecums?");
 string userAge = Console.ReadLine();
 
-Console.WriteLine($"Sveiks {userName}, Tavs vecums ir {userAge}.");
+Console.WriteLine($"Sveiks {userName}, Tavs vecums ir {userAge}")
